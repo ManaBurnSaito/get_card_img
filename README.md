@@ -18,3 +18,5 @@ params = {
 
 収集した画像名のスペースは_に変換されます。
 カード名：Tough Cookie　→ 画像名:Tough_Cookie
+
+![2023111100383](https://github.com/ManaBurnSaito/get_card_img/assets/139425458/feb5f4c9-6901-4033-b2ff-cd619d51d323)
